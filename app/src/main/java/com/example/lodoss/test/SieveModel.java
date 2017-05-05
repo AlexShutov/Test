@@ -2,7 +2,6 @@ package com.example.lodoss.test;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
@@ -11,13 +10,11 @@ import com.example.lodoss.test.archframework.QueryEnum;
 import com.example.lodoss.test.archframework.UserActionEnum;
 import com.example.lodoss.test.sieve.InfiniteSieve;
 
-import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
 import rx.Observable;
-import rx.Scheduler;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
@@ -79,12 +76,7 @@ public class SieveModel implements Model<SieveModel.SieveQueryEnum, SieveModel.S
         switch (action){
             case COMPUTE_NUMBERS_LESS_THAN:
 
-                if (computationAlgorithmSubscription != null &&
-                        !computationAlgorithmSubscription.isUnsubscribed()){
-                    // there is a pending computation, do nothing, Ui will be
-                    // updated once that computation completes
-                    Log.w(LOG_TAG, "There is a pending computation");
-                }
+                stopAlgorithmIfRunning();
                 final String maxNumberStr = args.getString(KEY_LIMIT_NUMBER);
                 computationAlgorithmSubscription =
                         Observable.just(maxNumberStr)
@@ -123,7 +115,6 @@ public class SieveModel implements Model<SieveModel.SieveQueryEnum, SieveModel.S
      */
     @Override
     public void requestData(SieveQueryEnum query, DataQueryCallback callback) {
-
     }
 
     /**
@@ -133,8 +124,17 @@ public class SieveModel implements Model<SieveModel.SieveQueryEnum, SieveModel.S
     public void cleanUp() {
         numbers = null;
         sum = null;
+        stopAlgorithmIfRunning();
+    }
+
+    /**
+     * Unsubscribe from subscription of running algorithm.
+     * It is more preferable to use custom thread we can stop.
+     */
+    private void stopAlgorithmIfRunning(){
         if (null != computationAlgorithmSubscription &&
                 !computationAlgorithmSubscription.isUnsubscribed()){
+            Log.w(LOG_TAG, "There is a pending computation, cancelling it");
             computationAlgorithmSubscription.unsubscribe();
             computationAlgorithmSubscription = null;
         }

@@ -39,21 +39,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.7\f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb\dagger-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
-        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\dagger-2.7_7dd11372a891910c04dc2a6496c7ff1ec1a4f506.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_f1c493d4a205fe1060645c2926d451820a537451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2181c00a0d0a595b6c0679f1411cc91af6b042bb">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.jakewharton.rxbinding-rxbinding-1.0.1_e78c93ced76d02eb041250c480f713881962d097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.7\f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb\dagger-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\dagger-2.7_7dd11372a891910c04dc2a6496c7ff1ec1a4f506.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\io.reactivex\rxandroid\0.25.0\866b539d3ae58abbd47880f243c02f914fec5cda\rxandroid-0.25.0.jar"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
-        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxandroid-0.25.0_eb5c993fc543019406919751ccfcfdb8d9c6aefd.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a6fe2bc1001e7d97abc4d3250a923b82dd87afba.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,12 +111,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a6fe2bc1001e7d97abc4d3250a923b82dd87afba.jar" />
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_04729d95595b11bc9b8da7e26fc692ae764d639c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -117,15 +126,6 @@
         revision="25.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
         <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_38ddf4d8d12dfc8d8e0a9b3ce8dc3982ed3dd654.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.13\b8668706414b5936d38c8a9e4c2be16e3c999c62\rxjava-1.0.13.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
-        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxjava-1.0.13_83c497f86350d6b7a795d0f966116126a58555e6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,12 +147,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.3\7fe1a94c1aeb958acc876fe616922cc191f3222c\rxjava-1.2.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_39b5fb88db7947db677c61623f3d16d3697edc93.jar" />
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxjava-1.2.3_9bbfd88b9c701f780046e2e3d45ec0be1bed719a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -162,6 +162,15 @@
         revision="25.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
         <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_de03ae20e0976b96f06eeaff8d6fbeb148c10a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_39b5fb88db7947db677c61623f3d16d3697edc93.jar" />
     </item>
     <item
         is-multidex="false"
