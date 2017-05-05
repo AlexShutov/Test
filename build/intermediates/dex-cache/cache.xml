@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_7ef241608386be6da90b1ecafcf3e05bfbb73f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_496eea37627057bbd488ab935f401fcc49d84fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_09c6b579f8f4d38305c1a0fdf002bb675701ccb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.7\f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb\dagger-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\dagger-2.7_7dd11372a891910c04dc2a6496c7ff1ec1a4f506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_f1c493d4a205fe1060645c2926d451820a537451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_5a3156c2065af223ef88bc7bf8349c570b69ffbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_b6798bc152e3e82c8c6e4a3f7c9cfa96a5cdc3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\io.reactivex\rxandroid\0.25.0\866b539d3ae58abbd47880f243c02f914fec5cda\rxandroid-0.25.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxandroid-0.25.0_eb5c993fc543019406919751ccfcfdb8d9c6aefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a6fe2bc1001e7d97abc4d3250a923b82dd87afba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_38ddf4d8d12dfc8d8e0a9b3ce8dc3982ed3dd654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.13\b8668706414b5936d38c8a9e4c2be16e3c999c62\rxjava-1.0.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxjava-1.0.13_83c497f86350d6b7a795d0f966116126a58555e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\javax.inject-1_e86c6ad046940b581fcf8f69e7965f8f5d1cfaf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_3678743ce3a14b708cd652266c4e6672a0b1e7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_39b5fb88db7947db677c61623f3d16d3697edc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_de03ae20e0976b96f06eeaff8d6fbeb148c10a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5894043832fb8cef2d7e4be29024bfdf58db567a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6e8f09f35d934c469baa2637b73fcdebb235d4fc.jar" />
+    </item>
+
+</items>

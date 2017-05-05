@@ -1,0 +1,5 @@
+app/build/
+.idea/
+.gradle/2.14.1/taskArtifacts/cache.properties
+.gradle/
+build/generated/mockable-android-25.jar
