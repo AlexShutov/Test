@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_7938f82182c7450466f0018dbe1c4732e8833a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -57,6 +66,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.3\b4b51d1925cdfda98fd861230c1ecb5855500129\baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.3_97d6da275f419b69ac63ee6860e4e170e9f2fa4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +90,15 @@
         revision="25.0.2"
         sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
         <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\rxandroid-0.25.0_eb5c993fc543019406919751ccfcfdb8d9c6aefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\projs\test\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\projs\test\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_75665350c4dbef64f43a21e07b0073dd5f8e22c0.jar" />
     </item>
     <item
         is-multidex="false"
